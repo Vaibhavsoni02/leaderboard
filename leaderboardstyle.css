@@ -125,3 +125,30 @@ line-height: 15px;
 text-align: right;
 color: #39cd90;
 }
+
+.oi-footer-bottom-ad-btns {
+    z-index: 999999999;
+}
+#cubeIframe{
+	z-index: 999999!important;
+	bottom: 70px!important;
+}
+#rv_slb {
+    z-index: 9999999999!important;
+}
+.listical-ad-left{
+	height: auto!important;
+    min-height: 250px;
+}
+.assigned_video:after {
+  display:none!important;
+}
+.imgBorder {
+height: auto;
+}
+.oiwb {
+    word-break: break-word;
+}
+.amp-fx-flying-carpet {
+    height: 350px!important;
+}
