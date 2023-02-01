@@ -131,9 +131,12 @@ color: #39cd90;
   height: 100px;
   -webkit-perspective: 2000px;
   -webkit-perspective-origin: 50% -500px;
+  perspective: 2000px;
+  perspective-origin: 50% -500px;
   position: relative;
   margin: 0 auto;
 }
+
 
 .oi-footer-bottom-ad-btns {
     z-index: 999999999;
