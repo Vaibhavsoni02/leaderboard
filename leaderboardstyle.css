@@ -161,3 +161,18 @@ height: auto;
 .amp-fx-flying-carpet {
     height: 350px!important;
 }
+
+.cube_close {
+  background: #fff url(https://images.oneindia.com/images/promotional/ad-close-icon.svg) no-repeat 0 0;
+  position: relative;
+  top: 18px;
+  left: 76px;
+  z-index: 1000;
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  cursor: pointer;
+  border-radius: 50%;
+}
