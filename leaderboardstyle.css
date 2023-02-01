@@ -126,6 +126,15 @@ text-align: right;
 color: #39cd90;
 }
 
+.cube-wrap {
+  width: 100px;
+  height: 100px;
+  -webkit-perspective: 2000px;
+  -webkit-perspective-origin: 50% -500px;
+  position: relative;
+  margin: 0 auto;
+}
+
 .oi-footer-bottom-ad-btns {
     z-index: 999999999;
 }
